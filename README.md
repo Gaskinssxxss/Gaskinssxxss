@@ -123,6 +123,6 @@ AUDIO DNA  : Metalcore · Punk (fast, raw, down-tuned)
 * Director & IT Support — arsitektur, infrastruktur, SOP, incident response.
 ## 📫 CONTACT
 
-· **Email** \<indramlnx666@gmail.com/\> · **LinkedIn** \<https://www.linkedin.com/in/indra-maulana-737858189/\> ·
+· **Email** \<indramlnx666@gmail.com\> · **LinkedIn** \<https://www.linkedin.com/in/indra-maulana-737858189\> ·
 
 ---
