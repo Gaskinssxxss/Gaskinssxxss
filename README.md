@@ -72,14 +72,6 @@ AUDIO DNA  : Metalcore · Punk (fast, raw, down-tuned)
 5. **Relentless rhythm** — raw energy as fuel, not decoration.
 6. **Rise from ruins** — failure is the blueprint for the next iteration.
 
-```
-if (!addsValue) remove();
-firewall(strict);
-observe -> endure -> refine();
-fail_forward();
-ship(small, fast);
-```
-
 <br/>
 <br/>
 
@@ -131,6 +123,6 @@ ship(small, fast);
 * Director & IT Support — arsitektur, infrastruktur, SOP, incident response.
 ## 📫 CONTACT
 
-**Site** <WEBSITE> · **Email** <EMAIL> · **LinkedIn** \<LINKEDIN\_USERNAME> · **Keybase/PGP** \<KEYBASE\_OR\_PGP\_URL>
+· **Email** \<indramlnx666@gmail.com/\> · **LinkedIn** \<https://www.linkedin.com/in/indra-maulana-737858189/\> ·
 
 ---
