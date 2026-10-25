@@ -1,5 +1,5 @@
 # Hi Lads, I'm Indra Maulana
-### Automation Engineer & IT Professional
+### Automation Engineer, SysAdmin, and IT Support
 
 I bridge the gap between robust system administration, efficient automation, and critical thinking. Passionate about building secure, scalable, and reliable open-source solutions.
 
