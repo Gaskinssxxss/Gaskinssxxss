@@ -5,15 +5,15 @@ I bridge the gap between robust system administration, efficient automation, and
 
 ---
 
-### 🛠️ Core Stack & Expertise
+### Core Stack & Expertise
 
-*   **Languages:** Golang, JavaScript (Node.js)
+*   **Languages:** Golang, JavaScript (Node.js), bash, Python
 *   **Systems & Infrastructure:** Linux (CLI Native), System Administration, Server Hardening
 *   **Specializations:** Automation Engineering, Network Programming, Cybersecurity, Operational Efficiency
 
 ---
 
-### 🕹️ What I Do
+### What I Do
 
 *   **Automation & Network Tools:** Developing structured and scalable tools to eliminate repetitive tasks and optimize network operations.
 *   **System Reliability:** Managing Linux environments with a strong focus on system security, uptime, and performance.
@@ -21,13 +21,13 @@ I bridge the gap between robust system administration, efficient automation, and
 
 ---
 
-### 🧠 Beyond the Code
+### Beyond the Code
 
 When I'm not configuring servers or writing automation scripts, I explore **philosophy**, with a particular focus on fundamental thought and **postmodernism**. I use these perspectives to critically analyze the intersection of technology, human behavior, and social change.
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 [!["[Your Name]'s GitHub Stats"](https://vercel.app[YourGitHubUsername]&show_icons=true&theme=dark&hide_border=true)](https://github.com)
 
